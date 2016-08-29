@@ -1,4 +1,4 @@
-# Awesome LEGO MINDSTORMS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Naramsim/awesome-lego-mindstorms)
+# Awesome LEGO MINDSTORMS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Naramsim/awesome-lego-mindstorms) [![Build Status](https://travis-ci.org/Naramsim/awesome-lego-mindstorms.svg?branch=master)](https://travis-ci.org/Naramsim/awesome-lego-mindstorms)
 
 [<img src="https://vignette3.wikia.nocookie.net/lego/images/3/34/Mindstorms_Logo.PNG/revision/latest?cb=20130914213830" align="center" width="842">](http://www.lego.com/mindstorms/)
 
