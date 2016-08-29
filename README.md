@@ -13,38 +13,38 @@
 
 - [Official Websites](#official-websites)
 - [EV3](#ev3)
-  - [Official resources](#official-resources)
-    - [Official Programming Apps](#official-programming-apps)
-    - [Official Commander Apps](#official-commander-apps)
-  - [Unofficial resources](#unofficial-resources)
-    - [Commanders Apps](#commanders-apps)
-    - [Source Codes](#source-codes)
-    - [Operating Systems](#operating-systems)
-    - [Official Ev3dev Bindings](#official-ev3dev-bindings)
-    - [Unofficial Ev3dev Bindings](#unofficial-ev3dev-bindings)
-    - [Interfaces](#interfaces)
-  - [Courses](#courses)
+    - [Official resources](#official-resources)
+      - [Official Programming Apps](#official-programming-apps)
+      - [Official Commander Apps](#official-commander-apps)
+    - [Unofficial resources](#unofficial-resources)
+      - [Commanders Apps](#commanders-apps)
+      - [Source Codes](#source-codes)
+      - [Operating Systems](#operating-systems)
+      - [Official Ev3dev Bindings](#official-ev3dev-bindings)
+      - [Unofficial Ev3dev Bindings](#unofficial-ev3dev-bindings)
+      - [Interfaces](#interfaces)
+    - [Courses](#courses)
 - [NXT](#nxt)
-  - [Official Resources](#official-resources)
-    - [Official Programming Apps](#official-programming-apps-1)
-  - [Unofficial Resources](#unofficial-resources)
-    - [Commanders Apps](#commanders-apps-1)
-    - [Interfaces](#interfaces-1)
-  - [Courses](#courses-1)
+    - [Official Resources](#official-resources)
+      - [Official Programming Apps](#official-programming-apps-1)
+    - [Unofficial Resources](#unofficial-resources)
+      - [Commanders Apps](#commanders-apps-1)
+      - [Interfaces](#interfaces-1)
+    - [Courses](#courses-1)
 - [RCX](#rcx)
-  - [Unofficial Resources](#unofficial-resources-1)
-    - [Interfaces](#interfaces-2)
+    - [Unofficial Resources](#unofficial-resources-1)
+      - [Interfaces](#interfaces-2)
 - [Competitions](#competitions)
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-### Official Websites
+## Official Websites
 
 - [LEGO MINDSTORMS](http://www.lego.com/mindstorms/)
 - [LEGO MINDSTORMS forum](https://community.lego.com/t5/mindstorms/bd-p/1042)
 
-### EV3
+## EV3
 
 #### Official resources
 
@@ -98,7 +98,7 @@
 - [STEMRobotics](http://stemrobotics.cs.pdx.edu/node/2643) - Programming mixed to engineering, math and technology
 - [Educational Robots for Absolute Beginners](https://cs4hsrobots.appspot.com/course) - Free, open self-paced Google-course.
 
-### NXT
+## NXT
 
 #### Official Resources
 
@@ -124,7 +124,7 @@
 #### Courses
 - [Educational Robots for Absolute Beginners](https://cs4hsev3robots.appspot.com/preview) - Free, open self-paced Google-course.
 
-### RCX
+## RCX
 
 #### Unofficial Resources
 
@@ -132,10 +132,10 @@
 - [LEJOS](http://www.lejos.org/rcx.php) - leJOS is replacement firmware for LEGO MINDSTORMS RCX bricks.
 - [BrixC](http://bricxcc.sourceforge.net/) - A C integrated development environment.
 
-### Competitions
+## Competitions
 - [_FIRTS_ LEGO League](http://www.firstlegoleague.org/) - Worldwide competition for kids ranging from 9 to 16 years old.
 
-### License
+## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
