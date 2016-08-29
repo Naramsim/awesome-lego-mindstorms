@@ -2,7 +2,7 @@
 
 [<img src="https://vignette3.wikia.nocookie.net/lego/images/3/34/Mindstorms_Logo.PNG/revision/latest?cb=20130914213830" align="center" width="842">](http://www.lego.com/mindstorms/)
 
-> A curated list of delightful MINDSTORMS [software](#software) and [resources](#resources).
+> A curated list of delightful MINDSTORMS software and resources.
 
 *You might also like [awesome-lego](https://github.com/adius/awesome-lego).*
 *Please read the [contribution guidelines](contributing.md) before contributing.*
